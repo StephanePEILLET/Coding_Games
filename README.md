@@ -1,2 +1,2 @@
 # Codingames
-Codes of Challenges on Coding Games
+Codes of Challenges on [Coding Games](https://www.codingame.com/)
